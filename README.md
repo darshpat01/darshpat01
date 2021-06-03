@@ -3,10 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/uzumakidarshan" target="blank"><img align="center" src="./logo/twitter_coloured.png" alt="uzumakidarshan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/darshan_patel01" target="blank"><img align="center" src="./logos/HackerRank_logo.png" alt="darshan_patel01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/-darshanpatel" target="blank"><img align="center" src="./logos/linkedin_coloured.png" alt="-darshanpatel" height="30" width="40" /></a>
-<a href="https://www.instagram.com/darshan_xoxo_/" target="blank"><img align="center" src="./logos/instagram_coloured.png" alt="darshan_patel01" height="30" width="40" /></a>
+<a href="https://twitter.com/uzumakidarshan" target="blank"><img align="center" src="./logos/twitter_coloured.png" alt="uzumakidarshan" height="28"/></a>
+<a href="https://www.hackerrank.com/darshan_patel01" target="blank"><img align="center" src="./logos/HackerRank_logo.png" alt="darshan_patel01" height="28"/></a>
+<a href="https://linkedin.com/in/-darshanpatel" target="blank"><img align="center" src="./logos/linkedin_coloured.png" alt="-darshanpatel" height="28"/></a>
+<a href="https://www.instagram.com/darshan_xoxo_/" target="blank"><img align="center" src="./logos/instagram_coloured.png" alt="darshan_patel01" height="28"/></a>
 </p>
 
 <h3 align="left">My Tech Stack:</h3>
