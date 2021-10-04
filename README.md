@@ -14,11 +14,9 @@
 
 <h3 align="left">Github Stats: </h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=darshpat01&show_icons=true&locale=en" alt="darshpat01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshpat01&" alt="darshpat01" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshpat01&label=Profile%20views&color=0e75b6&style=flat" alt="darshpat01" /> </p>
+<img width="495px" src="https://github-readme-stats.vercel.app/api?username=darshpat01&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&hide_title=false" /> 
+<img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshpat01&layout=compact&theme=nightowl&hide_border=false&hide_title=true" />
+<img width ="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=darshpat01&theme=nightowl"/>
 
 <p align="center">
     :arrow_down: Scroll down to see my top repositories :arrow_down:
