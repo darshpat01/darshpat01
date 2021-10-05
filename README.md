@@ -15,7 +15,7 @@
 <h3 align="left">Github Stats: </h3>
 
 <img width="495px" src="https://github-readme-stats.vercel.app/api?username=darshpat01&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&hide_title=false" /> 
-<img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshpat01&layout=compact&theme=nightowl&hide_border=false&hide_title=true" />
+<img align="left" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshpat01&layout=compact&theme=nightowl&hide_border=false&hide_title=true" />
 <img width ="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=darshpat01&theme=nightowl"/>
 
 <p align="center">
