@@ -4,13 +4,13 @@
 darshpat01@github - Fullstack Web Developer
 -------------------------------------------
 Name: Darshan Patel
-Age: 20
-OS: macOS Monterey version 12.6
+Age: 21
+OS: macOS Ventura 13.0
 Pronouns: He/Him
 Location: Surat, India
 Languages: Javascript, Typescript, HTML, CSS,
            C, C++, Python, Java
-Frontend: Bootstrap, jQuery, React
+Frontend: Bootstrap, jQuery, React, Nextjs, Remix
 Backend: Nodejs, Express, Nestjs
 Databases: MongoDB, mySQL
 Hobbies: Coding, Anime, Gaming
