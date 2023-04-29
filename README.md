@@ -10,7 +10,7 @@ Pronouns: He/Him
 Location: Surat, India
 Languages: Javascript, Typescript, HTML, CSS,
            C, C++, Python, Java
-Frontend: Bootstrap, jQuery, React, Nextjs, Remix
+Frontend: Bootstrap, jQuery, React, Nextjs, Remix, Tailwind
 Backend: Nodejs, Express, Nestjs
 Databases: MongoDB, mySQL
 Hobbies: Coding, Anime, Gaming
